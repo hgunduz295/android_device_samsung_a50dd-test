@@ -8,6 +8,7 @@ DEVICE_PATH := device/samsung/a50dd
 BOARD_VENDOR := samsung
 
 # Architecture
+TARGET_OTA_ASSERT_DEVICE := a50,a50dd
 TARGET_ARCH := arm64
 TARGET_ARCH_VARIANT := armv8-a
 TARGET_CPU_ABI := arm64-v8a
